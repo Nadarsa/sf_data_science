@@ -37,11 +37,11 @@ def random_predict() -> int:
                 left = mean_value + 1
                 guess = np.random.randint(left, right+1)
                 print(f'The computer chose {guess} to guess')
-            if number < mean_value:
+            elif number < mean_value:
                 right = mean_value - 1
                 guess = np.random.randint(left, right+1)
                 print(f'The computer chose {guess} to guess')
-            if number == mean_value:
+            else:
                 guess = mean_value
                 print(f'The computer chose {guess} to guess')
     return count
