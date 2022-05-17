@@ -128,3 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 PROJECT-1/data/dst-3.0_16_1_hh_database.csv
+PROJECT-3/hotels_test.csv
+PROJECT-3/hotels_train.csv
+PROJECT-3/submission.csv

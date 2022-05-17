@@ -1,0 +1,6 @@
+INFO: 2022-05-04 13:15:52,805: Data
+INFO: 2022-05-04 13:15:55,161: Data shape (110527, 14)
+INFO: 2022-05-04 13:15:57,622: Percentage of women: 0.653882342398853
+INFO: 2022-05-04 13:15:59,503: Percentage of men: 0.346117657601147
+ERROR: 2022-05-04 13:16:41,710: Data shape is incorrect!
+WARNING: 2022-05-04 14:13:36,852: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))': /api/rest/v2/experiment/metadata?experimentKey=7e455a1bdf96471fbd63f772a3372bb1
