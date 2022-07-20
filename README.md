@@ -1,6 +1,6 @@
-# My Data Science project
+# My Data Science projects
 
-From the [SkillFactory Data science cource](https://skillfactory.ru/data-science-specialization).
+From the [SkillFactory Data Science cource](https://skillfactory.ru/data-science-specialization).
 
 ## Проекты
 
@@ -8,3 +8,4 @@ From the [SkillFactory Data science cource](https://skillfactory.ru/data-science
 * [Проект 0.1. Игра: Угадать число менее чем за 20 попыток](https://github.com/Nadarsa/sf_data_science/tree/main/project_0.1)
 * [PROJECT-1. Анализ вакансий из HeadHunter](https://github.com/Nadarsa/sf_data_science/tree/main/PROJECT-1)
 * [PROJECT-3. EDA + Feature Engineering. Соревнование на Kaggle](https://github.com/Nadarsa/sf_data_science/tree/main/PROJECT-3)
+* [PROJECT-4. Задача классификации](https://github.com/Nadarsa/sf_data_science/tree/main/PROJECT-4)
