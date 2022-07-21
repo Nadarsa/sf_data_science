@@ -19,7 +19,7 @@
 ### Описание пректа 
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Но прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить.
 
-:arrow_up:[к оглавлению](https://github.com/Nadarsa/sf_data_science/tree/main/PROJECT-1/README.md#Оглавление)
+:arrow_up:[ к оглавлению](https://github.com/Nadarsa/sf_data_science/tree/main/PROJECT-1/README.md#Оглавление)
 
 ### Какой кейс решаем?
 Проект состоит из четырёх частей, которые наобходимо последовательно реализовать: 
@@ -31,7 +31,7 @@
 ### Краткая информация о данных
 Датасет представляет собой базу резюме, выгруженную с сайта поиска вакансий hh.ru. Данные в датасете "грязные": нужная информация находится в строках столбцов, признаки не подходят для анализа и визуализации. Данные необходимо преобразовать и очистить.
 
-:arrow_up:[к оглавлению](https://github.com/Nadarsa/sf_data_science/tree/main/PROJECT-1/README.md#Оглавление)
+:arrow_up:[ к оглавлению](https://github.com/Nadarsa/sf_data_science/tree/main/PROJECT-1/README.md#Оглавление)
 
 ### Этапы работы над проектом
 1) Проведено исследования структуры данных, знакомство со столбцами таблицы и информацией.
@@ -42,7 +42,7 @@
 6) Код реализован с применением РЕР8.
 7) Код загружен на GitHub.
 
-:arrow_up:[к оглавлению](https://github.com/Nadarsa/sf_data_science/tree/main/PROJECT-1/README.md#Оглавление)
+:arrow_up:[ к оглавлению](https://github.com/Nadarsa/sf_data_science/tree/main/PROJECT-1/README.md#Оглавление)
 
 ### Результаты
 - Проведено исследования структуры данных.
@@ -54,9 +54,9 @@
 - Проект загружен на GitHub.
 - GitHub оформлен соответствующим образом.
 
-:arrow_up:[к оглавлению](https://github.com/Nadarsa/sf_data_science/tree/main/PROJECT-1/README.md#Оглавление)
+:arrow_up:[ к оглавлению](https://github.com/Nadarsa/sf_data_science/tree/main/PROJECT-1/README.md#Оглавление)
 
 ### Выводы
 Реализован первый самостоятельный data science проект по исследованию, анализу, визуализации и очистке данных с учём установленных требований.
 
-:arrow_up:[к оглавлению](https://github.com/Nadarsa/sf_data_science/tree/main/PROJECT-1/README.md#Оглавление)
+:arrow_up:[ к оглавлению](https://github.com/Nadarsa/sf_data_science/tree/main/PROJECT-1/README.md#Оглавление)

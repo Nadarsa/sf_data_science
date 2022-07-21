@@ -17,7 +17,7 @@
 ### Описание пректа 
 Компьютер рандомно загадывает и угадывает загаданное число меньше чем за 20 попыток.
 
-:arrow_up:[к оглавлению](https://github.com/Nadarsa/sf_data_science/tree/main/project_0.1/README.md#Оглавление)
+:arrow_up:[ к оглавлению](https://github.com/Nadarsa/sf_data_science/tree/main/project_0.1/README.md#Оглавление)
 
 ### Какой кейс решаем?
 Нужно реализовать проект по созданию программы, которая угадывает загаданное компьютером число за минимальное количество попыток. Используя код из архива с базовым решением, а также смекалку, необходимо написать свою функцию, которая будет справляться с угадыванием меньше чем за 20 попыток.
@@ -47,7 +47,7 @@
 - Переменная count_list сохраняет список числа попыток при каждом повторении
 - Функция возращает score - среднее количество попыток при 1000 повторений
 
-:arrow_up:[к оглавлению](https://github.com/Nadarsa/sf_data_science/tree/main/project_0.1/README.md#Оглавление)
+:arrow_up:[ к оглавлению](https://github.com/Nadarsa/sf_data_science/tree/main/project_0.1/README.md#Оглавление)
 
 ### Этапы работы над проектом
 1) Реализована программа, которая случайным образом выбирает число - его будет отгадывать в дальнейшем компьютер.
@@ -58,7 +58,7 @@
 6) Реализация кода с применением РЕР8.
 7) Код загружен на GitHub.
 
-:arrow_up:[к оглавлению](https://github.com/Nadarsa/sf_data_science/tree/main/project_0.1/README.md#Оглавление)
+:arrow_up:[ к оглавлению](https://github.com/Nadarsa/sf_data_science/tree/main/project_0.1/README.md#Оглавление)
 
 ### Результаты
 - Реализован проект по созданию программы, которая угадывает загаданное компьютером число меньше чем за 20 попыток.
@@ -67,9 +67,9 @@
 - Проект загружен на GitHub.
 - GitHub оформлен соответствующим образом.
 
-:arrow_up:[к оглавлению](https://github.com/Nadarsa/sf_data_science/tree/main/project_0/1/README.md#Оглавление)
+:arrow_up:[ к оглавлению](https://github.com/Nadarsa/sf_data_science/tree/main/project_0/1/README.md#Оглавление)
 
 ### Выводы
 Реализован самостоятельный проект по созданию программы, которая угадывает загаданное компьютером число менее чем за 20 попыток, с учётом установленных критериев.
 
-:arrow_up:[к оглавлению](https://github.com/Nadarsa/sf_data_science/tree/main/project_0.1/README.md#Оглавление)
+:arrow_up:[ к оглавлению](https://github.com/Nadarsa/sf_data_science/tree/main/project_0.1/README.md#Оглавление)

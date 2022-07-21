@@ -17,7 +17,7 @@
 ### Описание пректа 
 Представляем, что мы работаем дата-сайентистами в компании Booking. Одна из проблем компании — это нечестные отели, которые накручивают себе рейтинг. Одним из способов обнаружения таких отелей является построение модели, которая предсказывает рейтинг отеля. Если предсказания модели сильно отличаются от фактического результата, то, возможно, отель ведёт себя нечестно, и его стоит проверить.
 
-:arrow_up:[к оглавлению](https://github.com/Nadarsa/sf_data_science/tree/main/PROJECT-3/README.md#Оглавление)
+:arrow_up:[ к оглавлению](https://github.com/Nadarsa/sf_data_science/tree/main/PROJECT-3/README.md#Оглавление)
 
 ### Какой кейс решаем?
 Цель проекта: построить модель на основе алгоритмов машинного обучения, которая предсказывает рейтинг отеля.
@@ -53,7 +53,7 @@
 - lat — географическая широта отеля;
 - lng — географическая долгота отеля.
 
-:arrow_up:[к оглавлению](https://github.com/Nadarsa/sf_data_science/tree/main/PROJECT-3/README.md#Оглавление)
+:arrow_up:[ к оглавлению](https://github.com/Nadarsa/sf_data_science/tree/main/PROJECT-3/README.md#Оглавление)
 
 ### Этапы работы над проектом
 
@@ -79,7 +79,7 @@
 15) Дабавляем возможность воспроизводимости кода;
 17) Загружаем код на площадку Kaggle для участия в соревновании и дублируем на GitHub.
 
-:arrow_up:[к оглавлению](https://github.com/Nadarsa/sf_data_science/tree/main/PROJECT-3/README.md#Оглавление)
+:arrow_up:[ к оглавлению](https://github.com/Nadarsa/sf_data_science/tree/main/PROJECT-3/README.md#Оглавление)
 
 ### Результаты
 
@@ -99,10 +99,10 @@
 - GitHub оформлен соответствующим образом;
 - Построена модель машинного обучения, предсказывающая рейтинг отеля.
 
-:arrow_up:[к оглавлению](https://github.com/Nadarsa/sf_data_science/tree/main/PROJECT-3/README.md#Оглавление)
+:arrow_up:[ к оглавлению](https://github.com/Nadarsa/sf_data_science/tree/main/PROJECT-3/README.md#Оглавление)
 
 ### Выводы
 Создана первая модель, основанная на алгоритмах машинного обучения, которая предсказывает рейтинг отеля.
 Проведена очистка довольно сильно загрязнённого датасета, из него извлечены несколько новых признаков и подготовлены данные для обучения модели. Также принято участие в соревновании по машинному обучению.
 
-:arrow_up:[к оглавлению](https://github.com/Nadarsa/sf_data_science/tree/main/PROJECT-3/README.md#Оглавление)
+:arrow_up:[ к оглавлению](https://github.com/Nadarsa/sf_data_science/tree/main/PROJECT-3/README.md#Оглавление)
