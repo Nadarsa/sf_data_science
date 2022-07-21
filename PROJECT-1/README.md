@@ -57,6 +57,6 @@
 :arrow_up:[ к оглавлению](https://github.com/Nadarsa/sf_data_science/tree/main/PROJECT-1/README.md#Оглавление)
 
 ### Выводы
-Реализован первый самостоятельный data science проект по исследованию, анализу, визуализации и очистке данных с учём установленных требований.
+Реализован первый самостоятельный data science проект по исследованию, анализу, визуализации и очистке данных с учётом установленных требований.
 
 :arrow_up:[ к оглавлению](https://github.com/Nadarsa/sf_data_science/tree/main/PROJECT-1/README.md#Оглавление)
