@@ -3,9 +3,9 @@
 
 Команда №3, Кейс №2
 
-Ссылка на Miro: https://miro.com/app/board/uXjVOlNN4ZM=/
+Проект на Kaggle: https://www.kaggle.com/code/nadezhdaoskina/hackathon-case2-team3-v2-clustering
 
-Проект на Kaggle: https://www.kaggle.com/code/nadezhdaoskina/hackathon-case2-team3-v2-clustering 
+Ссылка на Miro: https://miro.com/app/board/uXjVOlNN4ZM=/
 
 Хакатон проходил с 25 июля по 2 августа 2022 года
 
