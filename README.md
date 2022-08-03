@@ -9,3 +9,4 @@ From the [SkillFactory Data Science cource](https://skillfactory.ru/data-science
 * [PROJECT-1. Анализ вакансий из HeadHunter](https://github.com/Nadarsa/sf_data_science/tree/main/PROJECT-1)
 * [PROJECT-3. EDA + Feature Engineering. Соревнование на Kaggle](https://github.com/Nadarsa/sf_data_science/tree/main/PROJECT-3)
 * [PROJECT-4. Задача классификации](https://github.com/Nadarsa/sf_data_science/tree/main/PROJECT-4)
+* [Хакатон от Skillfactory + IT-Волонтер](https://github.com/Nadarsa/sf_data_science/tree/main/Hackathon_case_2)
