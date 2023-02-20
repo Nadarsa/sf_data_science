@@ -1,4 +1,4 @@
-# PROJECT-2. Подгрузка новых данных. Уточнение анализа.
+# PROJECT-2. Подгрузка новых данных. Уточнение анализа
 
 [Ссылка на проект](https://docs.google.com/document/d/1abxG7uqrFEdgW05jZYw8wImKpG5EHX-PsEYBWD2lHq0/edit?usp=share_link)
 
