@@ -140,3 +140,5 @@ PROJECT-5/data/train.csv
 PROJECT-5/data/weather_data.csv
 ml_in_business/data
 .DS_Store
+
+*venv/
