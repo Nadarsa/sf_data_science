@@ -14,5 +14,5 @@ From the [SkillFactory Data Science cource](https://skillfactory.ru/data-science
 * [PROJECT-6. Сегментирование клиентов онлайн-магазина подарков](https://github.com/Nadarsa/sf_data_science/tree/main/PROJECT-6)
 * [Хакатон от Skillfactory + Лаборатория исследований гражданского общества](https://github.com/Nadarsa/sf_data_science/tree/main/Hackathon_case_2)
 * [Time series project](https://github.com/Nadarsa/sf_data_science/tree/main/Time_series_project)
-* [PROJECT-FINAL. Предсказание вероятности диабета по данным диагностических мероприятий](https://github.com/Nadarsa/sf_data_science/tree/main/PROJECT-FINAL)
+* [PROJECT-FINAL. Предсказание начала диабета по данным диагностических мероприятий](https://github.com/Nadarsa/sf_data_science/tree/main/PROJECT-FINAL)
 
