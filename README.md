@@ -1,6 +1,6 @@
 # My Data Science projects
 
-From the [SkillFactory Data Science cource](https://skillfactory.ru/data-science-specialization).
+From the [SkillFactory Data Science specialization](https://skillfactory.ru/data-science-specialization).
 
 ## Проекты
 
