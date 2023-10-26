@@ -13,5 +13,6 @@ From the [SkillFactory Data Science specialization](https://skillfactory.ru/data
 * [PROJECT-5. Задача регрессии](https://github.com/Nadarsa/sf_data_science/tree/main/PROJECT-5)
 * [PROJECT-6. Сегментирование клиентов онлайн-магазина подарков](https://github.com/Nadarsa/sf_data_science/tree/main/PROJECT-6)
 * [Time series project](https://github.com/Nadarsa/sf_data_science/tree/main/Time_series_project)
+* [Recommendation systems project](https://github.com/Nadarsa/sf_data_science/tree/main/recsys_project)
 * [PROJECT-FINAL. Предсказание начала диабета по данным диагностических мероприятий](https://github.com/Nadarsa/sf_data_science/tree/main/PROJECT-FINAL)
 * [Хакатон от Skillfactory + Лаборатория исследований гражданского общества](https://github.com/Nadarsa/sf_data_science/tree/main/Hackathon_case_2)
